@@ -1,8 +1,10 @@
 04f7771daf0c92a7d19d1d6de16f4389  ./archaic/JurchenBerlin.ttf
 061fd463d14fff4de36e111bb7ed59dc  ./archaic/BabelStoneTangutLFW1986X.ttf
 0ac931492e614121a69fccf95d00f734  ./archaic/BabelStoneTangutKYC2006.ttf
-0aead671cc06cb8fbe7926bd22cdd08c  ./COPYRIGHT
+0aead671cc06cb8fbe7926bd22cdd08c  ./LICENSE
 0d07928f544c3d873389412d1d04a94b  ./archaic/BabelStoneKhitanSeals.ttf
+10367c717654bddfe5f2afa17ab89cf7  ./IDS.TXT
+10bea4cf526f087d14961cb5c4a88627  ./readme_fonts
 1214b2722a2ebf128d8138edc3b0209d  ./archaic/JurchenToyoBunko.ttf
 142eb5b3c6fac36ba8d49a75e357917c  ./ttf/BabelStoneHanPUA.ttf
 1ad0503aa07473f6fb6f1bf5ab126491  ./archaic/BabelStoneTangutLFW1986.ttf
@@ -15,6 +17,7 @@
 4555ed88e9a72fc9562af379d07c3350  ./APL.txt
 53d025c974e909d3ce21ee09b0c8994c  ./archaic/BabelStoneShuishuWSF.ttf
 5a528a3a699ab870a1ac52ffff5e5978  ./archaic/BabelStoneKhitanLargeGlyphs.ttf
+5c1bc15be4b8ff8cba40bbe47f6104a6  ./README.md
 6e2e33c72fdf6a9ec4193c5a5465dce6  ./archaic/BabelStoneTangutNishida1966.ttf
 6fde3b3dd390c66e79719eba0388a7d4  ./archaic/JurchenTianyige.ttf
 6fde3b3dd390c66e79719eba0388a7d4  ./archaic/JurchenTianyige.ttf.1
@@ -25,11 +28,10 @@
 7ff6a2c4f32ef03343436bf4050feda5  ./archaic/KhitanSmallLinear.ttf
 81036f5f4d9e7ec979bea7f5520e2114  ./archaic/BabelStoneShuishuWZL.ttf
 887aeae7bf9b0d19361f7e6119eabb42  ./wget-list
-9bb9aee9a9fedb213d05870703293589  ./LICENSE
+9bb9aee9a9fedb213d05870703293589  ./COPYRIGHT
 9df306e49c65a0fe54350b86d47a3dc6  ./OFL.txt
 a1f9cda6991c3b0dc25afe9c98015f63  ./archaic/BabelStoneKhitanSmallLinear.ttf
 a540c2fa397ae2b41191792c6023db80  ./archaic/JurchenSmall.ttf
-aa8888069983f9582eebd61b947b5d61  ./README.md
 b3c6baa077e7c3f4b5a75bd55c4ee650  ./archaic/BabelStoneSaniYi.ttf
 b4d2f92f9b7e3ec375b9b2b1260d267c  ./archaic/BabelStoneNaxiLLC.ttf
 b55128a55c2200c995f1cfe60e390867  ./archaic/BabelStoneTangutRadicals.ttf
