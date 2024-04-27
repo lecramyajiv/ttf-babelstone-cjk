@@ -2,8 +2,8 @@ ttf-babelstone-cjk contains the following fonts:
 
 Babelstonehan:
 
-It is a free Unicode CJK font with over 56,000 Han
-characters (hanzi, kanji, hanja), and 64,973 Unicode
+It is a free Unicode CJK font with over 57,700  Han
+characters (hanzi, kanji, hanja), and 62,524  Unicode
 characters in total. It is a Song/Ming style font.
 with glyphs modelled on the official character forms
 used in the People's Republic of China, and is primarily
@@ -16,10 +16,10 @@ bone, bronze, wood, bamboo, and silk.
 
 Babelstonehan PUA:
 
-it includes 4,444 unencoded CJK ideographs and ideographic
+it includes 5,666 unencoded CJK ideographs and ideographic
 components in the PUA, in the range U+E080 through U+F8DF.
 
-BabelStone Erijan 1 and 2:
+BabelStone Erjian 1 and 2:
 
 BabelStone Erjian 1 and 2 are two Unicode Han fonts
 using the draft second stage simplified forms of characters.
